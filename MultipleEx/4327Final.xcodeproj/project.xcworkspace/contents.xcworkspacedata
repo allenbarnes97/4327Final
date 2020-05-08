@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../MultipleEx/Assets.xcassets/216977.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:../MultipleEx/Assets.xcassets/216980.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:../MultipleEx/Assets.xcassets/217028.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:../MultipleEx/Assets.xcassets/bg1.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:../MultipleEx/Assets.xcassets/bulbasaur.png">
+   </FileRef>
+   <FileRef
+      location = "group:../MultipleEx/Assets.xcassets/charmander.png">
+   </FileRef>
+   <FileRef
+      location = "group:../MultipleEx/Assets.xcassets/cubone.png">
+   </FileRef>
+   <FileRef
+      location = "group:../MultipleEx/Assets.xcassets/pikachu.png">
+   </FileRef>
+   <FileRef
+      location = "group:../MultipleEx/Assets.xcassets/squirtle.png">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
